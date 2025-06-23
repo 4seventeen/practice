@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "clear": "^0.1.0",
+    "eslint": "^9.29.0",
+    "nodemon": "^3.1.10"
+  }
+}
